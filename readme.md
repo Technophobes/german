@@ -1,4 +1,5 @@
 fortgehen
 innehalten
 umherfahren
-
+standhalten
+einhergehen
