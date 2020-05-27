@@ -1,0 +1,4 @@
+fortgehen
+innehalten
+umherfahren
+
