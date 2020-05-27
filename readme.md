@@ -3,3 +3,5 @@ innehalten
 umherfahren
 standhalten
 einhergehen
+handhaben
+rechtfertigen
